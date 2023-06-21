@@ -1,0 +1,1 @@
+{"splits":[{"dataset":"mteb/sts12-sts","config":"mteb--sts12-sts","split":"train"},{"dataset":"mteb/sts12-sts","config":"mteb--sts12-sts","split":"test"}],"pending":[],"failed":[]}
